@@ -1,2 +1,2 @@
 # SMAI_7
-SMAI project on fraud detection in machine learning
+SMAI project on fraud detection with machine learning
